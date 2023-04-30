@@ -8,3 +8,12 @@
 4. Start up php server on *http://localhost:8081*
 5. Start up MySQL
 6. Done.
+
+## Access to admin panel
+
+The credentials required to access the admin panel are:
+
+| Email | Password |
+| --- | ----------- |
+| admin@admin.com | topsecret |
+
