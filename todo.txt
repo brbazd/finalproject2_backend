@@ -1,0 +1,10 @@
+TODO
+
+1. add page to add images
+2. add page to view tags
+3. add page to add tags
+4. add pages to edit tags/images
+5. add feature to add tags to existing image
+6. add feature to edit existing image file
+7.login/logout feature to be added
+8. design
